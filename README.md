@@ -1,4 +1,4 @@
-# AI Automation Workflows — David M. K. Miller
+# AI Automation Workflows — Himel T
 
 Professional AI automation workflows (n8n, Zapier, Make) built for businesses and teams.
 
@@ -54,7 +54,7 @@ Each featured project will include: overview, architecture diagram, workflow def
 
 Interested in automating repetitive tasks or integrating AI into your operations? Reach out:
 
-- Email: david@example.com
+- Email: davidmakmiller@gmail.com
 - LinkedIn: https://www.linkedin.com/in/davidmakmiller
 
 Available for contract and consulting engagements. Project scoping and discovery calls are complimentary.
